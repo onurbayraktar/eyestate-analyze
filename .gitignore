@@ -151,5 +151,4 @@ crashlytics-build.properties
 fabric.properties
 
 # Additional Files 
-nepalOutput.txt
-wuhanOutput.txt
+EyeState.db
